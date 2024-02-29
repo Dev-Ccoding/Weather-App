@@ -1,0 +1,1 @@
+this is the weather app made by devam patel of class 11 for alpine practicals and please make sure to run the code , if you are unable to run the code make sure to install the requests library (pip install requests) 
